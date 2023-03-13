@@ -1,0 +1,2 @@
+1. Unique Number of Occurences (Leetcode)
+2. Find All Duplicates in an Array (Leetcode)
